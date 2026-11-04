@@ -1,0 +1,6 @@
+.env
+backup
+
+data/**
+!data/results/
+!data/results/**
